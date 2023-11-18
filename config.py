@@ -1,0 +1,4 @@
+UPLOAD_FOLDER = './upload/'
+TEMPLATE_FOLDER = './templates'
+MASTER_KEY ='HELLO'
+CLEAN_KEY ='CLEAN KAR DO'
